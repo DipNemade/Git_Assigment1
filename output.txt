@@ -1,0 +1,4 @@
+This is third file for Git Assignment1.
+
+We have to add it to git repository with Code1 and log file.
+
